@@ -1,1 +1,1 @@
-Hi I am oing my second commit and tightening loose bolts in my git knowledge
+trying a pull request
